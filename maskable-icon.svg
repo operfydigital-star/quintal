@@ -1,0 +1,7 @@
+<svg width="512" height="512" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" fill="#02a7a0"/>
+  <g transform="translate(12, 12)">
+    <rect width="40" height="40" rx="5" ry="5" fill="#FFFFFF"/>
+    <text x="50%" y="50%" font-family="sans-serif" font-size="20" font-weight="bold" fill="#02a7a0" text-anchor="middle" dy=".3em" letter-spacing="-1">QM</text>
+  </g>
+</svg>
