@@ -242,7 +242,7 @@ const MainContent: React.FC<MainContentProps> = ({
                                                 {subcategory}
                                             </h4>
                                             <div className="space-y-6">
-                                                {fichasInSubcategory.map(ficha => (
+                                                {(fichasInSubcategory as FichaTecnica[]).map(ficha => (
                                                     <FichaTecnicaCard 
                                                         key={ficha.id} 
                                                         ficha={ficha}
